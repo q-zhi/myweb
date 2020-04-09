@@ -1,3 +1,8 @@
+type_area {
+  width: 1226px;
+  margin: 0 auto;
+}
+
 #header {
   width: 100%;
   height: 98px;

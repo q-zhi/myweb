@@ -1,9 +1,6 @@
-auto, type_area, #footer .footer, #serve .serve, .shopp ul, #describe .describe, #nav .nav > ul > li div ul, #nav .nav, #header .header {
-  margin: 0 auto;
-}
-
 type_area, #footer .footer, #serve .serve, .shopp ul, #describe .describe, #nav .nav > ul > li div ul, #nav .nav, #header .header {
   width: 1226px;
+  margin: 0 auto;
 }
 
 #header {

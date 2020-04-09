@@ -1,9 +1,6 @@
-auto, type_area, #footer .footer, #serve .serve, #main .main .foot, #main .main, #nav .nav {
-  margin: 0 auto;
-}
-
 type_area, #footer .footer, #serve .serve, #main .main .foot, #main .main, #nav .nav {
   width: 1226px;
+  margin: 0 auto;
 }
 
 #nav {

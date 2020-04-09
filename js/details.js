@@ -48,7 +48,7 @@ $(function () {
                 var p = $("<p>" + colorArr[i] + "</p>");
                 $(".color").append(p).children("p:first").addClass("checked");
             }
-            var pirce2 = Number(data.price) + 400;
+            var pirce2 = Number(data.price) + 100;
             $(".edition").children("p:last-child").children("span:last-child").text(data.price + "元").parent("p").prev().children("span:last-child").text(pirce2 + "元");
             $(".txt").children("h2").text(data.name).next().text(data.introduce).next().text($(".edition").children(".checked").children("span:last-child").text());
             $(".edition p").click(function () {
