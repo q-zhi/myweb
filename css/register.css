@@ -1,0 +1,73 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  color: #666;
+  background-color: #f9f9f9;
+}
+
+.wrap {
+  padding-top: 40px;
+}
+.wrap .container {
+  width: 854px;
+  height: 518px;
+  background-color: #fff;
+  margin: 0 auto;
+}
+.wrap .container h1 {
+  text-align: center;
+  margin-bottom: 40px;
+  background-color: #ff6b01;
+}
+.wrap .container h2 {
+  font-size: 30px;
+  color: #333;
+  text-align: center;
+}
+.wrap .container .regist {
+  width: 332px;
+  margin: 30px auto;
+}
+.wrap .container .regist form input {
+  width: 300px;
+  height: 22px;
+  border: 1px solid #e0e0e0;
+  padding: 10px 14px;
+  margin: 8px 0;
+}
+.wrap .container .regist form button {
+  width: 328px;
+  height: 44px;
+  border: none;
+  color: #fff;
+  background-color: #ff6700;
+  margin: 20px 0;
+}
+.wrap .footer {
+  height: 80px;
+  color: #757575;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 10px;
+}
+.wrap .footer .nav a {
+  color: #757575;
+  padding: 10px;
+}
+.wrap .footer .nav a:first-child {
+  color: #333;
+}
+.wrap .footer .nav a:hover {
+  color: #333;
+}
+.wrap .footer p {
+  line-height: 44px;
+}
+.wrap .footer p a {
+  color: #757575;
+}
+.wrap .footer p a img {
+  vertical-align: middle;
+}
+
+/*# sourceMappingURL=register.css.map */
